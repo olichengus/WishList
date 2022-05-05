@@ -1,0 +1,20 @@
+{
+    "Completed List": [{
+        "due date": 5,
+        "description": "physics hw"
+    }],
+    "to-do List": [
+        {
+            "due date": 0,
+            "description": "dishes"
+        },
+        {
+            "due date": 3,
+            "description": "coding assignment"
+        },
+        {
+            "due date": 2,
+            "description": "mow lawn"
+        }
+    ]
+}
